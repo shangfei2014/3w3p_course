@@ -1,0 +1,245 @@
+#main{
+    margin-left: 400px;
+}
+
+.font_small {
+    color: grey;
+    font-size: 15px;
+}
+
+.font_big {
+    position: relative;
+    color: slategrey;
+    font-size: 23px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 150px;
+}
+
+a:link {
+    text-decoration: none;
+    font-size: 10px;
+    border-color: black;
+    background-color: whitesmoke;
+    display: inline-block;
+    color: black;
+}
+
+#donate_one {
+    color: black;
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    margin: 5px;
+    padding-top: 5px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: monospace;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgrey;
+}
+
+nav {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+li {
+    display: inline;
+    float: left;
+    margin: 10px;
+}
+
+.section_one {
+    position: absolute;
+    background-image: url("../images/section_one.jpg");
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    width: 600px;
+    height: 300px;
+}
+
+.link_one{
+    color: slategrey;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    font-family: monospace;
+    padding-top: 10px;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgrey;
+}
+
+h2 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 23px;
+}
+
+.div_one {
+    position: relative;
+    padding-left: 25%;
+}
+
+.section_two {
+    position: absolute;
+    margin-top: 300px;
+    width: 600px;
+    height: 300px;
+    background-color: whitesmoke;
+}
+
+.misstion {
+    position: relative;
+    margin-top: 100px;
+    color: slategrey;
+    font-size: 23px;
+    font-family: monospace;
+}
+
+.section_three {
+    position: absolute;
+    margin-top: 600px;
+    width: 600px;
+    height: 300px;
+    background-color: darkseagreen;
+}
+
+.image_three {
+    position: relative;
+    margin-left: 80px;
+    margin-top: 100px;
+    display: inline-block;
+    width: 200px;
+}
+
+.image_four{
+    position: relative;
+    float: right;
+    padding-top: 80px;
+    display: inline-block;
+    width: 200px;
+}
+
+.image_five{
+    position: relative;
+    margin-left: 80px;
+    margin-top: 100px;
+    display: inline-block;
+    width: 200px;
+}
+.students {
+    color: whitesmoke;
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+.start_learning{
+    color: whitesmoke;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    background-color: orange;
+    font-family: monospace;
+    padding-top: 10px;
+}
+
+.tutors {
+    color: whitesmoke;
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.section_four {
+    position: relative;
+    margin-top: 900px;
+    width: 600px;
+    height: 300px;
+    background-color: sandybrown;
+}
+
+.section_five {
+    width: 600px;
+    height: 300px;
+    background-color: lightblue;
+}
+
+.section_six {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    background-color: whitesmoke;
+    margin-top: 0px;
+}
+
+.progress{
+    position: relative;
+    margin-top: 100px;
+}
+.p_two {
+    width: 600px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 9px;
+    color: slategrey;
+    font-family: monospace;
+}
+
+.donate {
+    color: slategrey;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 230px;
+    padding-top: 10px;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    background-color: orange;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+header {
+    position: relative;
+}
+
+.div_number {
+    display: inline-block;
+    width: 150px;
+    margin-left: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgrey;
+}
+
+.div_inside {
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.span_inside {
+    padding-left: 30px;
+}
+
+footer {
+    padding-left: 150px;
+}
