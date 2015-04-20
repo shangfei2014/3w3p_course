@@ -216,6 +216,8 @@ h2 {
 
 header {
     position: relative;
+    width: 600px;
+    height: 40px;
 }
 
 .div_number {
