@@ -1,0 +1,175 @@
+body{
+    margin: 1% 15% 1% 15%
+}
+
+aside{
+    float: left;
+    width: 25%;
+    height: 800px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.main-nav li a{
+    font-family: icomoon, Zapf Chancery, cursive;
+    font-size: 20px;
+    color: darkseagreen;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.main-nav li a:before{
+    margin-right: 20px;
+}
+.main-nav ul {
+    line-height: 30px;
+}
+.platform{
+    margin-top: 50px;
+}
+.community{
+    font-size: 20px;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+    border-bottom-color: darkgrey;
+    width: 180px;
+}
+
+.facebook_description{
+    font-family: Zapf Chancery, cursive;
+    width: 180px;
+}
+
+.community_link{
+    font-family: Zapf Chancery, cursive;
+    width: 180px;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px;
+    border-color: darkgrey;
+    border-style: solid;
+    border-radius: 8px;
+    text-align: right;
+    color: darkseagreen;
+    height: 30px;
+    padding-top: 4px;
+    padding-right: 3px;
+}
+
+.main_web{
+    width: 750px;
+    float: right;
+}
+
+.subject{
+    width: 750px;
+    height: 380px;
+    background-image: url(../images/plant_1.jpg);
+    background-size: 780px 380px;
+    background-repeat: no-repeat;
+}
+
+.subject_summary{
+    padding-top: 250px;
+}
+#shop_for_best{
+    font-family: Zapf Chancery, cursive;
+    float: right;
+    color: black;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    background-color: white;
+    padding-top: 5px;
+}
+#description{
+    margin-top: 60px;
+    margin-left: 150px;
+    font-family: Zapf Chancery, cursive;
+    float: right;
+    color: white;
+    font-size: 13px;
+    width: 350px;
+    height: 30px;
+    text-align: center;
+    background-color: black;
+    padding-top: 5px;
+}
+
+.menu_bar{
+    width: 750px;
+    height: 50px;
+    margin-top: 130px;
+}
+.menu{
+    display: inline-block;
+    width: 184.5px;
+    height: 90px;
+    background-color: aliceblue;
+}
+h2{
+    color: darkseagreen;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+span{
+    color: darkseagreen;
+    font-size: 15px;
+    font-family: Zapf Chancery, cursive;
+}
+
+form{
+    margin-top: 120px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: darkgrey;
+}
+
+label{
+    font-family: Zapf Chancery, cursive;
+    font-size: 12px;
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+    padding-left: 90px;
+}
+
+input{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+button{
+    padding-top: 10px;
+    color: black;
+    float: right;
+    margin-top: 16px;
+    margin-right: 10px;
+    padding: 7px;
+    border-radius: 3px;
+    background-color: whitesmoke;
+}
+
+.content{
+    margin-bottom: 0px;
+    width: 750px;
+    height: 350px;
+    position: relative;
+}
+
+.content_model{
+    display: inline-block;
+    width: 180px;
+    position: absolute;
+}
+
+.model_image{
+    width: 160px;
+    height: 110px;
+    margin-top: 30px;
+    padding: 10px;
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+}
