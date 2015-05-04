@@ -58,7 +58,7 @@ ul{
 }
 
 .main_web{
-    width: 750px;
+    width: 75%;
     float: right;
 }
 
@@ -125,6 +125,7 @@ span{
 }
 
 form{
+    width: 750px;
     margin-top: 120px;
     border-style: dashed;
     border-width: 1px;
@@ -137,7 +138,7 @@ label{
     display: inline-block;
     width: 300px;
     padding: 10px;
-    padding-left: 70px;
+    padding-left: 40px;
 }
 
 input{
