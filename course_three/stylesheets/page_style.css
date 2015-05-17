@@ -1,0 +1,412 @@
+body {
+    font-size: 100%;
+}
+
+.introduce_section {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../images/introduce_section_image.jpg);
+    background-size: cover;
+}
+
+.introduce_div{
+    height: 100vh;
+    width: 100vw;
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+h1 {
+    color: #ffffff;
+    width: 5%;
+    margin-left: 10vh;
+    margin-top: 6vh;
+    font-size: 6em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10vh;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.introduce_content {
+    width: 50%;
+    height: 100vh;
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: #f4bd2c;
+}
+a:hover {
+    color: #ffffff;
+}
+
+.bottom_1 {
+    display: inline-block;
+    font-size: 0.9em;
+    text-align: center;
+    padding-top: 1%;
+    width: 20vh;
+    height: 3vh;
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f4bd2c;
+    margin-left: 10vh;
+    border-style: solid;
+    border-color: #f4bd2c;
+    border-width: 3px;
+    margin-top: 5vh;
+}
+
+.bottom_2 {
+    display: inline-block;
+    font-size: 0.9em;
+    text-align: center;
+    padding-top: 1%;
+    width: 30%;
+    height: 3%;
+    background-color: #f4bd2c;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    margin-left: 2%;
+    border-style: solid;
+    border-color: #f4bd2c;
+    border-width: 3px;
+    margin-top: 9%;
+}
+
+#world_section {
+    height: 100vh;
+    width: 100vw;
+}
+
+.left_section {
+    width: 40vw;
+    height: 100vh;
+    float: left;
+}
+
+.left_section_one {
+    display: block;
+    width: 100%;
+    height: 40vh;
+    background-image: url(../images/chicago_trainer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: #ffffff;
+    border-top-width: 1vh;
+    border-style: solid;
+}
+
+.train_in_chicago {
+    width: 99.5%;
+    height: 40vh;
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+.train_in_chicago:hover {
+    opacity:0;
+}
+
+p {
+    color: #ffffff;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.left_section_two {
+    width: 100%;
+    height: 58vh;
+}
+
+.trainer_1 {
+    width: 50%;
+    height: 60vh;
+    float: left;
+    background-image: url(../images/trainer_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.trainer_2 {
+    width: 100%;
+    height: 40vh;
+    background-image: url(../images/trainer_2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-left-width: 1vh;
+    border: #ffffff;
+    border-style: solid;
+    border-bottom: 0;
+    border-top: 0;
+}
+
+.los {
+    display: block;
+    width: 100%;
+    height: 20vh;
+    background-image: url(../images/los.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-left: 1vh;
+    border: #ffffff;
+    border-style: solid;
+    border-bottom: 0;
+    border-top: 0;
+}
+
+.train_in_los {
+    width: 99%;
+    height: 20vh;
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+.train_in_los:hover {
+    opacity: 0;
+}
+
+.left_section_three {
+    width: 50%;
+    height: 60vh;
+    float: right;
+}
+
+.right_section {
+    width: 60vw;
+    height: 100vh;
+    float: right;
+}
+
+.right_section_one {
+    width: 100%;
+    height: 77.5vh;
+}
+
+.trainer_3 {
+    width: 40%;
+    height: 77.5vh;
+    float: left;
+    background-image: url(../images/trainer_3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: #ffffff;
+    border-left-width: 1vh;
+    border-style: solid;
+}
+
+.right_section_two {
+    float: right;
+    width: 58%;
+    height: 77.5vh;
+}
+
+.right_section_three {
+    width: 100%;
+    height: 40vh;
+}
+
+.golden_gate {
+    float: left;
+    width: 50%;
+    height: 40vh;
+    background-image: url(../images/Golden_gate.jpg);
+    background-size: cover;
+    border-top: 1vh;
+    border-color: #ffffff;
+    border-left-width: 1vh;
+    border-style: solid;
+}
+
+.train_in_san_francisco {
+    width: 100%;
+    height: 40vh;
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+.train_in_san_francisco:hover {
+    opacity: 0;
+}
+.trainer_4 {
+    float: right;
+    width: 46%;
+    height: 40vh;
+    background-image: url(../images/trainer_4.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 12%;
+}
+
+.right_section_four {
+    display: block;
+    width: 100%;
+    height: 36vh;
+    background-image: url(../images/shanghai.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 2vh;
+}
+
+.train_in_shang_hai{
+    width: 100%;
+    height: 36vh;
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+.train_in_shang_hai:hover {
+    opacity: 0;
+}
+
+.right_section_five {
+    width: 100%;
+    height: 24vh;
+}
+
+.trainer_5 {
+    float: right;
+    width: 30%;
+    height: 23vh;
+    background-image: url(../images/trainer_5.jpg);
+    background-size: cover;
+    margin-top: 1vh;
+}
+
+.hk {
+    display: block;
+    float: left;
+    width: 68%;
+    height: 23vh;
+    background-image: url(../images/hk.jpg);
+    background-size: contain;
+    border-color: #ffffff;
+    border-left-width: 1vh;
+    border-style: solid;
+}
+
+.train_in_hk{
+    width: 100%;
+    height: 23vh;
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+.train_in_hk:hover {
+    opacity: 0;
+}
+
+@media(max-width:1000px){
+    .introduce_content{
+        width: 100vw;
+        height: 100vh;
+        margin: 5%;
+    }
+    .left_section {
+        width: 100vw;
+        height: 100vh;
+    }
+    .left_section_one{
+        display: block;
+        width: 100%;
+        height: 40vh;
+        background-image: url(../images/chicago_trainer.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .right_section {
+        width: 100vw;
+        height: 100vh;
+        margin-top: 3vh;
+    }
+}
+
+@media(max-width:480px){
+    h1{
+        font-size: 4em;
+    }
+    h2{
+        font-size: 0.8em;
+    }
+    .bottom_2 {
+        display: block;
+        font-size: 0.9em;
+        text-align: center;
+        padding-top: 1%;
+        width: 30vh;
+        height: 3vh;
+        border-width: 3px;
+        margin-left: 10vh;
+        margin-top: 5vh;
+    }
+    .left_section {
+        width: 100vw;
+        height: 100vh;
+    }
+    .left_section_one{
+        width: 100vw;
+        height: 40vh;
+    }
+    .right_section {
+        margin-top: 110vh;
+        width: 100vw;
+        height: 100vh;
+    }
+    .trainer_3 {
+        width: 100vw;
+        height: 77.5vh;
+    }
+    .right_section_two {
+        width: 100vw;
+        height: 77.5vh;
+    }
+    .trainer_5 {
+        width: 100vw;
+        height: 23vh;
+        background-image: url(../images/trainer_5.jpg);
+        background-size: cover;
+    }
+    .hk {
+        width: 100vw;
+        border-left: 0;
+    }
+    .trainer_1 {
+        width: 100vw;
+        height: 90vh;
+    }
+    .left_section_two {
+        width: 100vw;
+    }
+    .left_section_three {
+        width: 100vw;
+    }
+    .trainer_2 {
+        width: 100vw;
+        border-top: 1vh;
+        border-color: #ffffff;
+        border-style: solid;
+
+    }
+    .los {
+        width: 100vw;
+        height: 30vh;
+        border-top: 1vh;
+        border-color: #ffffff;
+        border-style: solid;
+    }
+    .train_in_los {
+        width: 100vw;
+        height: 30vh;
+    }
+}
